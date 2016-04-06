@@ -31,6 +31,8 @@ class Hand {
     
     function point() {
         
+        echo "Pointing and folding ";
+        
         foreach($this->fingers as $finger) {
             $finger->fold();
         }
