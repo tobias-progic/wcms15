@@ -1,5 +1,3 @@
-PHP OOP Vecka14 - Kompositionsexempel
-
 
 ```PHP
 
@@ -27,4 +25,4 @@ class Car {
 $car = new Car;
 $car->drive();
 
-``
+```
